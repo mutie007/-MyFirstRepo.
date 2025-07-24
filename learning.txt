@@ -1,1 +1,2 @@
+"What I have learned from this course"
 In this course, I’ve learned the basics of working with Linux commands, file permissions, and shell scripting. I now understand how to navigate directories, list files, manage file ownership, and change permissions using commands like cd, ls, chmod, and chown. I’ve also learned about input/output redirection, using symbols like >, >>, and 2>&1, as well as how to create aliases for commonly used commands. These skills are helping me gain confidence in using the command line efficiently.
